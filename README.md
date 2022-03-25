@@ -1,2 +1,2 @@
-# machine-learn
-learning machine learning with python 
+# machine-learning 
+learninghow to code  machine learning projects with python 
